@@ -1,4 +1,17 @@
+* {
+    scroll-behavior: smooth;
+}
+
 body {
     height: 100vh;
-    background-color: blue;
+   
+}
+
+li {
+    display: inline;
+    padding: 10%;
+}
+
+a {
+    cursor: grabbing;
 }
